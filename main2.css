@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(241,240,240);
+}
+
+#mainbg{
+    /* border: 1px solid orangered; */
+    background-color: #fff;
+    width: 55%;
+    height: 78.8vh;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 4%;
+
+}
+
+#sideimg{
+    background-image: url(./bg-01.jpg);
+    width: 45%;
+    height: 79vh;
+    background-size: contain;
+    background-position-x: 47%;
+    background-repeat: no-repeat;
+    max-width: 90%;
+}
+
+#page{
+    text-align: center;
+    font-size: 140%;
+    margin-top: 10%;
+}
+
+#sideform{
+    /* border: 1px solid purple; */
+    width: 50%;
+    height: 60vh;
+    margin-left: 48%;
+    margin-right: 25%;
+    margin-top: -49%;
+}
+
+.inputStyle{
+    padding: 12px;
+    width: 40%;
+    margin-top: 15%;
+    outline: none;
+
+}
+
+#twostyle{
+    margin-right: 8px;
+}
+
+
+#btnaccount{
+    margin-left: 3%;
+    width: 93%;
+    padding: 12px;
+    margin-top: 3%;
+    color: #fff;
+    background-color: rgb(4, 176, 4);
+    border-color: rgb(4, 176, 4);
+}
+
+#remind{
+    margin-left: 20%;
+    margin-top: 5%;
+}
+
+p{
+    text-align: center;
+    margin-top: 20%;
+    color: rgb(32, 158, 32);
+}
+
+#onestyle{
+    margin-right: -3.6px;
+}

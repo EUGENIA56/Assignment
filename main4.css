@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(./bg-registration-form-4.jpg);
+}
+
+#mainimg{
+    /* border: 1px solid orangered; */
+    background-color: #fff;
+    width: 60%;
+    height: 85vh;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 4%;
+    /* margin: 5%; */
+}
+
+#sideimg{
+    background-image: url(./registration-form-4.jpg);
+    width: 50%;
+    height: 85vh;
+    background-size: contain;
+    background-position-x: 47%;
+    background-repeat: no-repeat;
+}
+
+#sideform{
+    /* border: 1px solid red; */
+    width: 46%;
+    height: 79vh;
+    margin-left: 50%;
+    margin-right: 30%;
+    margin-top: -63%;
+    padding: 13.5px;
+    
+}
+
+.inputstyle{
+    display: block;
+    margin-left: 5%;
+    padding: 13px;
+    width: 77%;
+    margin-left: 8%;
+    margin-top: 5%;
+    background-color: #efefef;;
+    border-color: #efefef;
+    border-radius: 20px;
+}
+
+#pagetitle{
+    margin-left: 37%;
+    margin-top: 20%;
+    font-size: 180%;
+    color:  #fb771a;
+}
+
+#btnlogin{
+display: block;
+width: 37%;
+margin: 5%;
+margin-top: 15%;
+margin-left: 8%;
+padding: 4%;
+background-color: #fb771a;
+border: none;
+color: #fff;
+border-radius: 20px;
+}
+
+#txt_forgot_pass{
+    display: block;
+    float: right;
+    margin-right: 5%;
+    margin-top: 18%;
+    font-size: 80%;
+
+    
+}
+
+#lb_chk{
+    font-size: 86%;
+    margin-left: 8%;
+    
+}
+
+#chk_remember{
+    accent-color: orangered;
+}

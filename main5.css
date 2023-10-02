@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(241,240,240);
+}
+
+#mainbg{
+    background-color: #fff;
+    width: 55%;
+    height: 75vh;
+    margin-left: 23%;
+    margin-top: 5%;
+}
+
+#sideform{
+    /* border: 1px solid red; */
+    width: 50%;
+    height: 75vh;
+}
+
+#pagetitle{
+    margin-bottom: -10%;
+    margin-left: 10%;
+    font-size: 130%;
+}
+
+p{
+    margin-left: 10%;
+}
+
+.inputStyle{
+    padding: 15px;
+    width: 75%;
+    margin: 4%;
+    margin-left: 7%;
+    border-radius: 23px;
+}
+
+#btnaccount{
+    width: 84%;
+    color: #fff;
+    background-color: orangered;
+    border-color: orangered;
+    
+    
+}
+
+#infocontainer{
+    margin-left: 5%;
+}
+
+#chk_remember{
+    margin-left: 5%;
+}
+
+#txt_forgot_pass{
+    margin-left: 15%;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(63, 62, 62);
+}
+
+#sideimg{
+    border: 1px orangered;
+    width:49%;
+    margin-left: 51%;
+    margin-top: -61.5%;
+    height: 75vh;
+    background-color: orangered;
+}
+
+h1{
+    text-align: center;
+    color: #fff;
+    
+    
+}
+
+h5{
+    text-align: center;
+    color: #fff;
+    
+    
+}
+
+
+
+#lb_chk{
+    accent-color: orangered;
+}
+
+#btnsign{
+    margin-left: 42%;
+    width: 20%;
+    padding: 8px;
+    margin-top: 5%;
+    background-color: orangered;
+    color: #fff;
+    border-color: #fff;
+    border-radius: 18px;
+}

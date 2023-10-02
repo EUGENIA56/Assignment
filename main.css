@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+#bgimg{
+    background-image: url(./form-v9.jpg);
+    background-size: contain;
+    width: 55%;
+    height: 70vh;
+    /* margin-left: 30%; */
+    /* margin-right: 30%; */
+    margin: auto;
+    margin-top: 7%;
+    border-radius: 10px;
+    
+    
+    
+
+}
+
+body{
+    background-color: blue;
+}
+
+#register{
+    /* margin-left: 45%; */
+    text-align: center;
+    font-size: 100%;
+}
+
+#line{
+    width: 46px;
+    margin-left: 50%;
+}
+
+#formcontainer{
+    text-align: center;
+    
+    
+}
+
+#down{
+    margin-top: 10%;
+}
+
+.inputsyle{
+    padding: 12px;
+    margin: 4%;
+    border-radius: 20px;
+    background: transparent;
+    
+    
+    
+    
+}
+
+#btnreg{
+    background-color: red;
+    color: #fff;
+    width: 20%;
+    border-color: red;
+}
